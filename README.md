@@ -5,7 +5,6 @@ This project implements a latching power switch with auto on/off and demonstrate
 
 ## Circuit Diagram
 ![Circuit Diagram](latching_power_switch_circuit.png)
-![Circuit Diagram video](latching_power_switch_circuit_vid.mp4)
 
 
 ## Components and Connections
@@ -33,7 +32,7 @@ This project implements a latching power switch with auto on/off and demonstrate
 - Serial Monitor shows "Power ON," "Power OFF," and "Auto Power ON."
 
 ## Code
-The Arduino code is in `latching_power_switch.ino`, using pins 2 (button), 5 (MOSFET control), and 9 (PWM).
+The Arduino code is in `latching_power_switch.ino`.
 
-## Tinkercad Link (Optional)
-[View the project]([paste_your_tinkercad_link_here](https://www.tinkercad.com/things/fF9Wx2a52y6-latching-power-switch-with-auto-power-onoff))
+## Tinkercad Link
+[View the project]([https://www.tinkercad.com/things/fF9Wx2a52y6-latching-power-switch-with-auto-power-onoff])
