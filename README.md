@@ -35,4 +35,5 @@ This project implements a latching power switch with auto on/off and demonstrate
 The Arduino code is in `latching_power_switch.ino`.
 
 ## Tinkercad Link
-[View the project]([https://www.tinkercad.com/things/fF9Wx2a52y6-latching-power-switch-with-auto-power-onoff])
+
+https://www.tinkercad.com/things/fF9Wx2a52y6-latching-power-switch-with-auto-power-onoff
